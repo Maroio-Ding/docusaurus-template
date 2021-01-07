@@ -10,7 +10,7 @@
     <entry>
         <title type="html"><![CDATA[第一篇博客]]></title>
         <id>hello-blog</id>
-        <link href="https://github.com/Maroio-Ding/docusaurus-wiki/hello-blog"/>
+        <link href="https://github.com/Maroio-Ding/docusaurus-wiki/docusaurus-wiki/hello-blog"/>
         <updated>2021-01-07T17:15:56.910Z</updated>
         <summary type="html"><![CDATA[博客的标题和预览部分]]></summary>
     </entry>

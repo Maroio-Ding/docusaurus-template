@@ -9,7 +9,7 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[第一篇博客]]></title>
-            <link>https://github.com/Maroio-Ding/docusaurus-wiki/hello-blog</link>
+            <link>https://github.com/Maroio-Ding/docusaurus-wiki/docusaurus-wiki/hello-blog</link>
             <guid>hello-blog</guid>
             <pubDate>Thu, 07 Jan 2021 17:15:56 GMT</pubDate>
             <description><![CDATA[博客的标题和预览部分]]></description>
