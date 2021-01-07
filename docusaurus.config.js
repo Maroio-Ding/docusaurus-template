@@ -1,14 +1,14 @@
 module.exports = {
-  title: "Someone's Site",              // 站点名称
+  title: "Maroio's Docs",              // 站点名称
   tagline: 'The tagline of this site',  // 站点描述
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',           // 站点的图标
+  favicon: 'https://github.com/Maroio-Ding/My_ImgBed/blob/main/Basic/avatar.png',           // 站点的图标
   
-  url: 'https://github.com/rcxxx/docusaurus-template/', // GitHub 页面的 URL
-  baseUrl: '/docusaurus-template/',                         // 项目的基本 URL 设置为 /仓库名/
-  organizationName: 'rcxxx',            // 设置为 Github 用户名
-  projectName: 'docusaurus-template',   // 设置为 Github 仓库名
+  url: 'https://github.com/Maroio-Ding/docusaurus-wiki/', // GitHub 页面的 URL
+  baseUrl: '/',                         // 项目的基本 URL 设置为 /仓库名/
+  organizationName: 'Maroio-Ding',            // 设置为 Github 用户名
+  projectName: 'docusaurus-wiki',   // 设置为 Github 仓库名
   
   
   themeConfig: {
@@ -28,7 +28,7 @@ module.exports = {
     // },
     // 导航栏配置
     navbar: {
-      title: "Someone's Site",                 // 名称
+      title: "Maroio's Docs",                 // 名称
       
       // 设置logo 如果需要可以取消注释  logo文件推荐转为 .svg 格式
       // logo: {
@@ -52,7 +52,7 @@ module.exports = {
         },
         
         {
-          href: 'https://github.com/rcxxx/docusaurus-template',  // 如果要跳转链接则使用 herf
+          href: 'https://github.com/Maroio-Ding/docusaurus-wiki',  // 如果要跳转链接则使用 herf
           label: '本站源码',
           position: 'right',
         },
@@ -66,17 +66,17 @@ module.exports = {
 
         // 同样的方式创建一个分类
         {
-          title: 'Docs',
+          title: 'Contact',
           // 同样的格式创建新的按钮
           items: [
             {
-              label: 'start',           // 标签
-              to: 'docs/',              // 要跳转的页面
+              label: 'GitHub',           // 标签
+              to: 'https://github.com/Maroio-Ding',              // 要跳转的页面
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Maroio. Built with Docusaurus.`,
     },
   },
   
