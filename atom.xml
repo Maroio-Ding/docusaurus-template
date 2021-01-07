@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/rcxxx/docusaurus-template/</id>
-    <title>Someone's Site Blog</title>
-    <updated>2021-01-05T11:39:43.912Z</updated>
+    <id>https://github.com/Maroio-Ding/docusaurus-wiki/</id>
+    <title>Maroio's Docs Blog</title>
+    <updated>2021-01-07T17:15:56.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/rcxxx/docusaurus-template/"/>
-    <subtitle>Someone's Site Blog</subtitle>
-    <icon>https://github.com/rcxxx/docusaurus-template/img/favicon.ico</icon>
+    <link rel="alternate" href="https://github.com/Maroio-Ding/docusaurus-wiki/"/>
+    <subtitle>Maroio's Docs Blog</subtitle>
+    <icon>https://github.com/Maroio-Ding/docusaurus-wiki/https://github.com/Maroio-Ding/My_ImgBed/blob/main/Basic/avatar.png</icon>
     <entry>
         <title type="html"><![CDATA[第一篇博客]]></title>
         <id>hello-blog</id>
-        <link href="https://github.com/rcxxx/docusaurus-template/docusaurus-template/hello-blog"/>
-        <updated>2021-01-05T11:39:43.912Z</updated>
+        <link href="https://github.com/Maroio-Ding/docusaurus-wiki/hello-blog"/>
+        <updated>2021-01-07T17:15:56.910Z</updated>
         <summary type="html"><![CDATA[博客的标题和预览部分]]></summary>
     </entry>
 </feed>
