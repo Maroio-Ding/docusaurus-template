@@ -4,7 +4,7 @@ title: Hello Blog!                   # 博客标题
 author: Maroio                        # 作者
 author_title:              # 作者的标签
 author_url:                        # 作者的网址
-author_image_url: https://github.com/Maroio-Ding/My_ImgBed/blob/main/Basic/avatar.png               # 作者头像的链接
+author_image_url:              # 作者头像的链接
 tags: [blog, docusaurus]           # 标签
 ---
 
