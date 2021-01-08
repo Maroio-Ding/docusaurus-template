@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Maroio's Docs",              // 站点名称
+  title: "Maroio's Blog",              // 站点名称
   tagline: 'The tagline of this site',  // 站点描述
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -28,7 +28,7 @@ module.exports = {
     // },
     // 导航栏配置
     navbar: {
-      title: "Maroio's Docs",                 // 名称
+      title: "Maroio's Blog",                 // 名称
       
       // 设置logo 如果需要可以取消注释  logo文件推荐转为 .svg 格式
       // logo: {
@@ -72,6 +72,10 @@ module.exports = {
             {
               label: 'GitHub',           // 标签
               to: 'https://github.com/Maroio-Ding',              // 要跳转的页面
+            },
+            {
+              label: 'Wolf-Wiki',           // 标签
+              to: 'https://wiki.wildwolf.tech',              // 要跳转的页面
             },
           ],
         },
