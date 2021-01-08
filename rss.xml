@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Maroio's Docs Blog</title>
+        <title>Maroio's Blog Blog</title>
         <link>https://github.com/Maroio-Ding/docusaurus-wiki/</link>
-        <description>Maroio's Docs Blog</description>
+        <description>Maroio's Blog Blog</description>
         <lastBuildDate>Thu, 07 Jan 2021 17:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[第一篇博客]]></title>
+            <title><![CDATA[Hello Blog!]]></title>
             <link>https://github.com/Maroio-Ding/docusaurus-wiki/docusaurus-wiki/hello-blog</link>
             <guid>hello-blog</guid>
             <pubDate>Thu, 07 Jan 2021 17:15:56 GMT</pubDate>
-            <description><![CDATA[博客的标题和预览部分]]></description>
+            <description><![CDATA[你好！这里是 Maroio 的 Blog]]></description>
         </item>
     </channel>
 </rss>
