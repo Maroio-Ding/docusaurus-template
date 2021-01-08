@@ -6,7 +6,7 @@ module.exports = {
   favicon: 'https://github.com/Maroio-Ding/My_ImgBed/blob/main/Basic/avatar.png',           // 站点的图标
   
   url: 'https://github.com/Maroio-Ding/docusaurus-wiki/', // GitHub 页面的 URL
-  baseUrl: '/',                         // 项目的基本 URL 设置为 /仓库名/
+  baseUrl: '/docusaurus-wiki/',                         // 项目的基本 URL 设置为 /仓库名/
   organizationName: 'Maroio-Ding',            // 设置为 Github 用户名
   projectName: 'docusaurus-wiki',   // 设置为 Github 仓库名
   
@@ -47,7 +47,7 @@ module.exports = {
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Wolf🐺',
           position: 'left',
         },
         

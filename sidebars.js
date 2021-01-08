@@ -1,7 +1,7 @@
 module.exports = {
   someSidebar: {
-    Start:[
-      'template',
+    Wolf_Wiki:[
+      'Howto-BuildRobot01',
     ]
   },
 };
