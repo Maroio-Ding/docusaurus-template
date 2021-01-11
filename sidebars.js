@@ -1,7 +1,15 @@
 module.exports = {
-  someSidebar: {
+  'Wolf🐺': {
     Wolf_Wiki:[
-      'Howto-BuildRobot01',
+      'Wolf-Wiki/Howto-BuildRobot01',
     ]
   },
+
+  '读书笔记📚': {
+    社会科学:[
+      'Reading-Note/ReadingNote-Outlier',
+    ]
+  },
+
+
 };

@@ -45,12 +45,19 @@ module.exports = {
         },
         
         {
-          to: 'docs/',
+          to: 'docs/Wolf-Wiki/Howto-BuildRobot01',
           activeBasePath: 'docs',
           label: 'Wolf🐺',
           position: 'left',
         },
         
+        {
+          to: 'docs/Reading-Note/ReadingNote-Outlier',
+          activeBasePath: 'docs',
+          label: '读书笔记📚',
+          position: 'left',
+        },
+
         {
           href: 'https://github.com/Maroio-Ding/docusaurus-wiki',  // 如果要跳转链接则使用 herf
           label: '本站源码',
@@ -68,7 +75,7 @@ module.exports = {
         {
           title: 'Contact',
           // 同样的格式创建新的按钮
-          items: [
+          items: [  
             {
               label: 'GitHub',           // 标签
               to: 'https://github.com/Maroio-Ding',              // 要跳转的页面
