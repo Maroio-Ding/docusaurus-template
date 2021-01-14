@@ -52,9 +52,23 @@ module.exports = {
         },
         
         {
-          to: 'docs/Reading-Note/ReadingNote-Outlier',
+          to: 'docs/Reading-Note/Outlier',
           activeBasePath: 'docs',
           label: '读书笔记📚',
+          position: 'left',
+        },
+
+        {
+          to: 'docs/My-Daily/Violin01',
+          activeBasePath: 'docs',
+          label: 'My Daily🤓',
+          position: 'left',
+        },
+
+        {
+          to: 'docs/',
+          activeBasePath: 'docs',
+          label: 'Doodles🎨',
           position: 'left',
         },
 
