@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{82:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello Blog!","permalink":"/docusaurus-wiki/hello-blog"}]}')}}]);
