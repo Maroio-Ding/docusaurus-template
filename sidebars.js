@@ -2,10 +2,13 @@ module.exports = {
   'Wolf🐺': {
     Wolf_Wiki: [
       'Wolf-Wiki/Howto-BuildRobot01',
+      'Wolf-Wiki/Howto-BuildRobot02',
     ],
 
     Wolf_Daily:[
+      'Wolf-Daily/Birthday-20',
       'Wolf-Daily/RC-Arrow',
+
     ],
   },
 
