@@ -15,6 +15,10 @@ module.exports = {
   '读书笔记📚': {
     社会科学:[
       'Reading-Note/Outlier',
+    ],
+
+    随笔:[
+      'Reading-Note/目光',
     ]
   },
 
