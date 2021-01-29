@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Maroio's Blog",              // 站点名称
+  title: "Maroio's Wiki",              // 站点名称
   tagline: 'The tagline of this site',  // 站点描述
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -28,7 +28,7 @@ module.exports = {
     // },
     // 导航栏配置
     navbar: {
-      title: "Maroio's Blog",                 // 名称
+      title: "Maroio's Wiki",                 // 名称
       
       // 设置logo 如果需要可以取消注释  logo文件推荐转为 .svg 格式
       // logo: {

@@ -17,8 +17,12 @@ module.exports = {
       'Reading-Note/Outlier',
     ],
 
-    随笔:[
+    散文随笔:[
       'Reading-Note/目光',
+    ],
+
+    传记:[
+      'Reading-Note/从头开始',
     ]
   },
 
