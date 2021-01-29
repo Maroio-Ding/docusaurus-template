@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Maroio-Ding/docusaurus-wiki/</id>
-    <title>Maroio's Blog Blog</title>
+    <title>Maroio's Wiki Blog</title>
     <updated>2021-01-07T17:15:56.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/Maroio-Ding/docusaurus-wiki/"/>
-    <subtitle>Maroio's Blog Blog</subtitle>
+    <subtitle>Maroio's Wiki Blog</subtitle>
     <icon>https://github.com/Maroio-Ding/docusaurus-wiki/https://github.com/Maroio-Ding/My_ImgBed/blob/main/Basic/avatar.png</icon>
     <entry>
         <title type="html"><![CDATA[Hello Blog!]]></title>
