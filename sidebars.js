@@ -5,11 +5,15 @@ module.exports = {
       'Wolf-Wiki/Howto-BuildRobot02',
     ],
 
+    Wolf_Tutorials:[
+      
+    ],
+
     Wolf_Daily:[
       'Wolf-Daily/Birthday-20',
       'Wolf-Daily/RC-Arrow',
-
     ],
+
   },
 
   '读书笔记📚': {
@@ -29,7 +33,12 @@ module.exports = {
   'My Daily🤓': {
     Music:[
       'My-Daily/Violin01',
-    ]
+    ],
+
+    LEGO:[
+      'My-Daily/LEGO-01',
+    ],
+
   },
 
   'Doodles🎨': {
