@@ -39,6 +39,10 @@ module.exports = {
       'My-Daily/LEGO-01',
     ],
 
+    English:[
+      'My-Daily/English-01-Reading',
+    ],
+
   },
 
   'Doodles🎨': {
